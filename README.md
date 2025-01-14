@@ -81,9 +81,12 @@ Entry point for the application.
 ---
 
 ## Sample Input/Output
-### Input/Output:
 
+![image alt](https://github.com/rohitdhumal-24/Core-Java-Project-2/blob/8c995275460af1fdf9b9ae5f173714d191889733/TrainManagement.png)
 ---
+
+## UML Diagram
+
 
 ## Technology Stack
 - **Language**: Java
