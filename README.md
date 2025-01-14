@@ -83,10 +83,12 @@ Entry point for the application.
 ## Sample Input/Output
 
 ![image alt](https://github.com/rohitdhumal-24/Core-Java-Project-2/blob/8c995275460af1fdf9b9ae5f173714d191889733/TrainManagement.png)
+
 ---
 
 ## UML Diagram
 
+![image alt](https://github.com/rohitdhumal-24/Core-Java-Project-2/blob/0f7fa73bfc574e00ec0f5c8d737caf50d4b02dde/TrainSystemUML.png)
 
 ## Technology Stack
 - **Language**: Java
