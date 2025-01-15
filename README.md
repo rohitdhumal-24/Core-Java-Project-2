@@ -102,7 +102,7 @@ Entry point for the application.
 ## Future Enhancements
 - Database Integration.
 - GUI Implementation.
-- Advanced filtering (e.g., train type, schedule).
+- Advanced filtering (e.g., train type, schedule)
 - Real-time train updates via API.
 
 ---
